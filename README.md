@@ -9,3 +9,9 @@
 
 اگر به همکاری با من علاقه مند هستید یا در مورد پروژه های من سوالی دارید، می توانید
 با من از طریق ایمیل [webramin.git@gmail.com](mailto:webramin.git@gmail.com) یا [وبسایت من](https://webramin.github.io/) تماس بگیرید.
+
+---
+
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webramin&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=webramin&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />
