@@ -12,6 +12,7 @@
 
 ---
 
+<img src="https://opengraph.githubassets.com/0b812d4ce599e792900e29dc86d127f21f55e85cf5f26eba701642ef6175c73c/webramin/webramin.github.io" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webramin&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webramin&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=webramin&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />
