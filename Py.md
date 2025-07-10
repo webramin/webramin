@@ -10,54 +10,57 @@
 ### 🧭 هفته ۱: مقدمات ترمینال
 - آشنایی با ساختار دستورات لینوکس
 - دستورات پایه:
-  ```bash
+```bash
   pwd, ls, cd, mkdir, touch, cp, mv, rm
-
+```
 مدیریت فایل‌ها:
 
+```bash
 cat, less, head, tail, nano
-
+```
 کمک‌گیری:
 
+```bash
 man, --help, apropos
-
+```
 
 👥 هفته ۲: کاربران و مجوزها
 
 مدیریت کاربران:
-
+```bash
 sudo, su, useradd, usermod, passwd
+```
 
 مدیریت مجوزها:
-
+```bash
 chmod, chown, chgrp
-
+```
 سیستم فایل:
-
+```bash
 df, du, mount, umount
-
+```
 
 📝 هفته ۳: پردازش متن
 
 فیلترها:
-
+```bash
 grep, awk, sed, cut, sort, uniq
-
+```
 ویرایشگرها:
-
+```bash
 vi/vim, emacs
-
+```
 
 📦 هفته ۴: مدیریت بسته‌ها
 
 دبیان/اوبونتو:
-
+```bash
 apt update, apt install, apt remove
-
+```
 RHEL/CentOS:
-
+```bash
 yum install, dnf install
-
+```
 
 
 ---
@@ -67,50 +70,50 @@ yum install, dnf install
 🔄 هفته ۵: مدیریت فرآیندها
 
 مانیتورینگ:
-
+```bash
 ps, top, htop, glances
-
+```
 کنترل فرآیندها:
-
+```bash
 kill, killall, pkill, nice, renice
-
+```
 
 🌐 هفته ۶: شبکه مقدماتی
 
 ابزارهای شبکه:
-
+```bash
 ifconfig/ip, netstat/ss, ping, traceroute
-
+```
 اتصالات:
-
+```bash
 ssh, scp, rsync
-
+```
 
 ⚡ هفته ۷: اسکریپت‌نویسی مقدماتی
 
 ساختار اسکریپت:
-
+```bash
 #!/bin/bash
-
+```
 متغیرها و ورودی:
-
+```bash
 read, $1, $@
-
+```
 شرط‌ها:
-
+```bash
 if-then-else, case
-
+```
 
 ⏰ هفته ۸: زمان‌بندی وظایف
 
 با کرون:
-
+```bash
 crontab -e
-
+```
 با at:
-
+```bash
 at, atq, atrm
-
+```
 
 
 ---
@@ -120,46 +123,46 @@ at, atq, atrm
 🌐 هفته ۹: شبکه پیشرفته
 
 دیباگ شبکه:
-
+```bash
 tcpdump, wireshark, nmap
-
+```
 فایروال:
-
+```bash
 iptables, ufw, firewalld
-
+```
 
 📊 هفته ۱۰: لاگ‌ها و مانیتورینگ
 
 سیستم‌های لاگ:
-
+```bash
 journalctl, /var/log
-
+```
 ابزارهای مانیتورینگ:
-
+```bash
 sar, vmstat, iostat
-
+```
 
 📦 هفته ۱۱: مجازی‌سازی و کانتینر
 
 Docker مقدماتی:
-
+```bash
 docker run, docker ps, docker build
-
+```
 LXC/LXD:
-
+```bash
 lxc launch, lxc list
-
+```
 
 🔒 هفته ۱۲: امنیت پایه
 
 اسکن امنیتی:
-
+```bash
 lynis, rkhunter
-
+```
 احراز هویت:
-
+```bash
 ssh-keygen, openssl
-
+```
 
 
 ---
